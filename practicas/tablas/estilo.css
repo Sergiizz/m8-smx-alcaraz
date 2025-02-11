@@ -1,0 +1,8 @@
+.tablas{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+th{
+    background-color: white;
+}
